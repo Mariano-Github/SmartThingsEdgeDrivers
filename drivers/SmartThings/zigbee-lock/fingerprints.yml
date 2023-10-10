@@ -76,6 +76,11 @@ zigbeeManufacturer:
     manufacturer: Kwikset
     model: SMARTCODE_DEADBOLT_10T
     deviceProfileName: base-lock
+  - id: "Kwikset/SMARTCODE_DEADBOLT_10T_W3"
+    deviceLabel: "Kwikset Door Lock"
+    manufacturer: Kwikset
+    model: SMARTCODE_DEADBOLT_10T_W3
+    deviceProfileName: base-lock
   - id: "Kwikset/Smartcode"
     deviceLabel: "Kwikset Door Lock"
     manufacturer: Kwikset
